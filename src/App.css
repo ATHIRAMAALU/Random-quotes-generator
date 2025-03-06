@@ -1,0 +1,38 @@
+body{
+  background-image: url(https://media.gettyimages.com/id/1491868868/video/4k-abstract-colorful-red-pink-neon-color-gradient-background-christmas-animation.jpg?s=640x640&k=20&c=lZkfnSIhmd7ihIDzYLRxQUtFalGx9DYXoC2cW3Cxp-I=);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.container{
+  border: 2px solid black;
+  height: 500%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+
+
+  align-items: center;
+
+}
+.para{
+  font-style: italic;
+  font-size: 25px;
+}
+.textname{
+  color: rgb(127, 24, 24);
+}
+.authorname{
+  font-weight: bolder;
+  font-size: 20px;
+}
+.btm{
+  background-color: rgb(175, 15, 15);
+  height: 40px;
+  width: 200px;
+}
+
